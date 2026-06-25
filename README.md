@@ -16,7 +16,7 @@
 ## 📁 项目结构
 
 ```
-watchat-bot/
+wechat-ai-clone/
 ├── src/
 │   ├── bot.py                  # 主入口（CipherTalk API 模式）
 │   ├── wechat_bridge.py        # 桌面自动化模式（pyautogui）
