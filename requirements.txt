@@ -1,0 +1,22 @@
+# === AI / LLM ===
+openai>=1.0.0
+
+# === 配置 ===
+pyyaml>=6.0
+
+# === 微信自动化 (桌面UI方案) ===
+pyautogui>=0.9.50
+pywin32>=306
+uiautomation>=2.0
+
+# === 聊天分析 (可选) ===
+jieba>=0.42.1
+
+# === 微信数据库直读 (可选) ===
+# sqlcipher3  # Windows 需要手动编译安装
+
+# === WeChatFerry 桥接 (可选，仅支持特定微信版本) ===
+# wcferry
+
+# === wx4py 桥接 (可选) ===
+# wx4py
